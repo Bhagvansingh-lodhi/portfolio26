@@ -345,7 +345,7 @@ const Footer = () => {
                 <div style={{ marginTop: '2rem' }}>
                   <h4>Contact</h4>
                   <div style={{ color: 'rgba(255,255,255,0.4)', fontSize: '0.95rem', marginTop: '0.5rem' }}>
-                    bhagvansinghhere@example.com
+                    bhagvansinghhere@gmail.com
                   </div>
                 </div>
               </div>
